@@ -1088,6 +1088,18 @@ ol, ul {
     width: 60px;
   }
 
+  .sidebar {
+    width: 250px;
+    height: 104vh;
+    position: fixed;
+    background: rgba(23, 21, 59, 0.9);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
   main {
     margin-left: 60px;
   }
@@ -1199,5 +1211,6 @@ ol, ul {
     text-align: center;
   }
 }
+
 
 
