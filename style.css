@@ -85,7 +85,7 @@ main {
   justify-content: center;
   padding: 0 8%;
   color: #fff;
-  background-image: url(../assets/images/41de731f-be04-4efb-89ba-5cb26e22cfdc.png);
+  background-image: url(41de731f-be04-4efb-89ba-5cb26e22cfdc.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1199,3 +1199,4 @@ ol, ul {
     text-align: center;
   }
 }
+
